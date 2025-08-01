@@ -12,6 +12,13 @@ To analyze Zepto's customer and order dataset to uncover trends, understand buye
 
 ---
 
+## 🎯 Sneek Peek
+
+<img src="ScreenShots/1.png" width="600"/>
+
+
+---
+
 ## 🛠️ Tools & Technologies Used
 
 - **Python**
